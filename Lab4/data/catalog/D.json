@@ -1,54 +1,46 @@
 {
-    "catalog_items":[
-        {
-            "id":26,
-            "short_name":"D-1",
-            "name":"item-D-1",
-            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            "price_retail":null,
-            "price_wholesale":3,
-            "amount_retail":null,
-            "amount_wholesale":"2+ pos"
-        },
-        {
-            "id":27,
-            "short_name":"D-2",
-            "name":"item-D-2",
-            "description":"Lorem ipsum dolor sit, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
-            "price_retail":4,
-            "price_wholesale":2,
-            "amount_retail":"4+ pos",
-            "amount_wholesale":"8+ pos"
-        },
-        {
-            "id":28,
-            "short_name":"D-3",
-            "name":"item-D-3",
-            "description":"Lorem ipsum dolor sit adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
-            "price_retail":8,
-            "price_wholesale":7,
-            "amount_retail":"1+ pos",
-            "amount_wholesale":"2+ pos"
-        },
-        {
-            "id":29,
-            "short_name":"D-4",
-            "name":"item-D-4",
-            "description":"Lorem ipsum dolor elit, sed do eiusmod tempor incididunt.",
-            "price_retail":6,
-            "price_wholesale":5,
-            "amount_retail":"2+ pos",
-            "amount_wholesale":"4+ pos"
-        },
-        {
-            "id":30,
-            "short_name":"D-5",
-            "name":"item-D-5",
-            "description":"amet, consectetur adipiscing elit, sed do eiusmod.",
-            "price_retail":4,
-            "price_wholesale":1,
-            "amount_retail":"3+ pos",
-            "amount_wholesale":"6+ pos"
-        }
-    ]
+    "catalog_items": [
+    {
+        "id": 27,
+        "short_name": "D1",
+        "name": "item-1",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "price": "42$"
+    },
+    {
+        "id": 28,
+        "short_name": "D2",
+        "name": "item-2",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "price": "19$"
+    },
+    {
+        "id": 29,
+        "short_name": "D3",
+        "name": "item-3",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "price": "35$"
+    },
+    {
+        "id": 30,
+        "short_name": "D4",
+        "name": "item-4",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "price": "13$"
+    },
+    {
+        "id": 31,
+        "short_name": "D5",
+        "name": "item-5",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "price": "30$"
+    },
+    {
+        "id": 32,
+        "short_name": "D6",
+        "name": "item-6",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "price": "30$"
+    }
+     ]
 }
